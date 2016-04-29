@@ -1,0 +1,97 @@
+﻿.twitter-badge
+{
+
+width: 18px;
+height: 15px;
+background: transparent url(https://g.twimg.com/Twitter_logo_blue.png) no-repeat 0 0;
+background-size:100%;
+text-indent:-1099999px;
+}
+
+.PrimaryContent{
+	width:646px;
+}
+.PrimaryContent .s4-wpTopTable{
+	margin-bottom:10px!important;
+}
+.pageSidebar{
+	background: #fff;
+	padding: 5px;
+}
+
+.ms-WPBorder{
+	border:0px!important;
+}
+
+h3.ms-WPTitle a:hover, h3.ms-WPTitle a, h3.ms-WPTitle a span{
+	text-decoration:none!important;
+	color:blue!important;
+}
+/**/
+.tier1a-342px{
+	width:inherit!important;
+}
+.rssfeedMain img,.home_bottom td a,.home_bottom td a img{
+	border:0px;
+}
+
+.rssfeedMain{
+	margin-top:-5px;
+}
+.slm-layout-main{
+	background: #B6D8E9!important;
+}
+a.mainHead {
+    display: block;
+    height: 27px;
+    padding-right: 7px;
+}
+.noSpace, .s4-ba li{
+	margin:0px!important;
+	padding:0px!important;
+	
+}
+.rssfeedMain ul.noSpace{
+	overflow-x: hidden;
+	overflow-y: auto;
+	height: 314px;
+	width: 300px;
+}
+
+li.link-item,.table tr{
+	margin:10px 0 !important
+}
+li.link-item{
+	min-height:88px;
+	width: 240px;
+	overflow-wrap: break-word;
+}
+.link-item a{
+	font-size: 13px!important;
+}
+.link-item a{
+display: inline-block;
+  overflow-wrap: break-word;
+  width: 200px;
+}
+li.link-item a img{
+height:48px;width:48px;
+padding:0px 10px 0px 0px;/*margin-bottom: 34px;*/margin-left: -36px;}
+
+.description {
+    font-size: 13px!important;
+}
+.twitter-timeline{
+	color:#0084b4;
+	text-align: center;
+	padding:10px 0;
+	display:block;
+}
+
+.rssfeedMain h1{
+	border-bottom:0px solid #CCCCCC;
+	color:#676767!important;
+	font-size:11px!important;
+	font-family:Verdana, Arial, sans-serif!important;	
+	border-bottom:1px solid #CCCCCC;
+}
